@@ -1,6 +1,6 @@
 # Cases of the day
 
-These cases have been curated automatically to sieive them out from the normals that abound.  They are intended to be bulk training for a radiologist's retina.  15 mins a day to get the brain and eyes warmed up...
+These cases have been curated automatically to sieve them out from the normals that abound.  They are intended to be bulk training for a radiologist's retina.  15 mins a day to get the brain and eyes warmed up...
 
 ## Monday 17 June 
 1. **RWT10927417** - Features suggestive of gallstone ileus with a fistulous tract between the gallbladder and proximal duodenum, along with complex liver cysts.
